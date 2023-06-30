@@ -49,7 +49,6 @@
         src="https://s2-techtudo.glbimg.com/EzaKBmCZ2sKxx_7G4yLLUJWFuBs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/3/3/7v0svdTC2FGy6ClCOGqw/2011-12-12-1-google.jpg" />
     <img width="300" src="https://img.ibxk.com.br/2017/07/04/04125117638191.jpg?ims=328x" />
     </p>
-
     <h2 id="marcações">O que são marcações (Tags)</h2>
     <hr />
     <small><a href="#html">(Voltar)</a></small>
@@ -82,7 +81,6 @@
         linguagem de marcação HTML. É formado por um ou mais widgets. Esses widgets são campos de textos, caixas de
         seleção, botões, radio buttons e checkboxes utilizando ferramentas do próprio HTML. Dessa forma, o usuário pode
         interagir com a página ao executar ações através desses formulários.
-
         Esse recurso é muito utilizado para a criação de formulários de contato, formulários para captura de leads, e
         também para criação de sistemas, como por exemplo a criação de um modal de login.
         <blockquote>
