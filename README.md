@@ -7,6 +7,7 @@
 
 <body>
     <h1>HTML na prática</h1>
+      <hr />
     <h2>Índice</h2>
     <ol>
         <li><a href="#html">O que é HTML</a></li>
